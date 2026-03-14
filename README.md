@@ -59,7 +59,7 @@ hotish turns your Linux laptop into a WiFi hotspot with a full arrow-key TUI. It
 ### Step 1 — Clone and run the installer
 
 ```bash
-git clone https://github.com/your-username/hotish
+git clone https://github.com/graham-creator/hotish
 cd hotish
 sudo bash ./hotish.sh
 ```
